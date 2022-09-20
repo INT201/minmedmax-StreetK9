@@ -16,7 +16,7 @@ function minMedMax(n1, n2, n3) {
 
   let minMedMaxObj = { min: min, mid: mid, max: max }
   return minMedMaxObj
-
+  
 }
 
 
